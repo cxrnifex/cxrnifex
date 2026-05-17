@@ -9,9 +9,5 @@ $${\color{white}  ❝ \space \color{RED}IF \space YOU \space WANNA \space 𝑭�
 <br>
 $${\color{RED}LET'S \space SEE \space WHAT'S \space 𝑰𝑵𝑺𝑰𝑫𝑬 \color{white}.ᐟ.ᐟ \space ❞ }$$ 
 <br> 
-<br>
-<br>
-<br>
-<br>
-<br> <a href="https://youtu.be/B20w52a_hmo?si=KLp1TO6_R-EyQimH">SONG CRED (FUKAONA GIRL - STOMACH BOOK)</a> // <a href="https://www.tumblr.com/silverygoof"> ART CRED </a>
+
 </p> 
