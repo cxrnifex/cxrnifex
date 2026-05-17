@@ -23,9 +23,10 @@
   </a>
 </p>
 
+<p align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geo&duration=15000&pause=1000&color=9D0000&center=true&width=435&lines=+So+to+hell%2C+to+hell+with+you+all.+;But+then%2C+you%E2%80%99re+already+there%2C+aren%E2%80%99t+you%3F" alt="Typing SVG" /></a>
 <br>
-  
+  </p>
 <p align="center">  
 𝕐𝕠𝕦𝕣 𝕒𝕓𝕚𝕝𝕚𝕥𝕪 𝕥𝕠 𝕨𝕠𝕟𝕕𝕖𝕣, 𝕒𝕟𝕕 𝕥𝕠 𝕨𝕒𝕟𝕕𝕖𝕣. 𝕐𝕠𝕦𝕣 𝕥𝕖𝕟𝕕𝕖𝕟𝕔𝕪 𝕥𝕠 𝕙𝕠𝕡𝕖 
 <br>
