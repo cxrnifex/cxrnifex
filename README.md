@@ -1,8 +1,7 @@
 
 <p align="center">
 <br>
-  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=981A1A&width=435&lines=%E2%84%ADarnifex.+(%F0%9D%94%ABoun);%F0%9D%94%85%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A0%F0%9D%94%A5%F0%9D%94%A2%F0%9D%94%AF.++%F0%9D%94%88%F0%9D%94%B5%F0%9D%94%A2%F0%9D%94%A0%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A2%F0%9D%94%AF." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&center=true&color=981A1A&width=435&lines=%E2%84%ADarnifex.+(%F0%9D%94%ABoun);%F0%9D%94%85%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A0%F0%9D%94%A5%F0%9D%94%A2%F0%9D%94%AF.++%F0%9D%94%88%F0%9D%94%B5%F0%9D%94%A2%F0%9D%94%A0%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A2%F0%9D%94%AF." alt="Typing SVG" /></a>
   <br>
   𝕀 𝕨𝕒𝕤 𝕚𝕟 𝕙𝕖𝕝𝕝, 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕒𝕥 𝕙𝕖𝕒𝕧𝕖𝕟.
   <br>   
