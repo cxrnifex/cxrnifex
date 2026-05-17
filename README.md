@@ -5,9 +5,7 @@
 <br>
 <br>
 <br>
-$${\color{white}  ❝ \space \color{RED}IF \space YOU \space WANNA \space 𝑭𝑳𝑨𝒀 \space ME\color{white},}$$ 
-<br>
-$${\color{RED}LET'S \space SEE \space WHAT'S \space 𝑰𝑵𝑺𝑰𝑫𝑬 \color{white}.ᐟ.ᐟ \space ❞ }$$ 
+𝕀 𝕨𝕒𝕤 𝕚𝕟 𝕙𝕖𝕝𝕝, 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕒𝕥 𝕙𝕖𝕒𝕧𝕖𝕟.
 <br> 
   .
 </p>
