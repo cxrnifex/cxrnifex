@@ -1,5 +1,7 @@
 
 <p align="center">
+  
+<font size="21">
 <br>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&center=true&color=981A1A&width=435&lines=%E2%84%ADarnifex.+(%F0%9D%94%ABoun);%F0%9D%94%85%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A0%F0%9D%94%A5%F0%9D%94%A2%F0%9D%94%AF.++/++%F0%9D%94%88%F0%9D%94%B5%F0%9D%94%A2%F0%9D%94%A0%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A2%F0%9D%94%AF." alt="Typing SVG" /></a>
@@ -29,6 +31,7 @@ $${\color{#ad0909}   𝕐𝕠𝕦𝕣 \space 𝕤𝕠𝕗𝕥𝕟𝕖𝕤𝕤. \
  $${\color{#380404} ╰────── \space ·\space \color{#ad0909} · \space ☽〇☾ \space · \space \color{#380404} · \space  ──────╯}$$
   <br>
     <br>
+   </font> 
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -41,7 +44,9 @@ $${\color{#ad0909}   𝕐𝕠𝕦𝕣 \space 𝕤𝕠𝕗𝕥𝕟𝕖𝕤𝕤. \
 <br>
   </p>
 <p align="center">  
+  <font size="21">
 $${\color{#ad0909} 𝕐𝕠𝕦𝕣 \space 𝕒𝕓𝕚𝕝𝕚𝕥𝕪 \space 𝕥𝕠 \space 𝕨𝕠𝕟𝕕𝕖𝕣, \space 𝕒𝕟𝕕 \space 𝕥𝕠 \space 𝕨𝕒𝕟𝕕𝕖𝕣. \space 𝕐𝕠𝕦𝕣 \space 𝕥𝕖𝕟𝕕𝕖𝕟𝕔𝕪 \space 𝕥𝕠 \space 𝕙𝕠𝕡𝕖. }$$
 <br>
     <br>
+ </font> 
 </p>
