@@ -1,8 +1,6 @@
 
 <p align="center">
 <br>
-  <img src="https://64.media.tumblr.com/35996f8f5fe2d42654b919bc7e56a8ae/9b360b95216ccc4d-c8/s500x750/ca88316544a9fcc4176c4c31a36fe445ffab2dcd.gifv" width="500" height="50" > 
-  <br>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&center=true&color=981A1A&width=435&lines=%E2%84%ADarnifex.+(%F0%9D%94%ABoun);%F0%9D%94%85%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A0%F0%9D%94%A5%F0%9D%94%A2%F0%9D%94%AF.++/++%F0%9D%94%88%F0%9D%94%B5%F0%9D%94%A2%F0%9D%94%A0%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A2%F0%9D%94%AF." alt="Typing SVG" /></a>
   <br>
@@ -46,7 +44,4 @@ $${\color{#ad0909}   𝕐𝕠𝕦𝕣 \space 𝕤𝕠𝕗𝕥𝕟𝕖𝕤𝕤. \
 $${\color{#ad0909} 𝕐𝕠𝕦𝕣 \space 𝕒𝕓𝕚𝕝𝕚𝕥𝕪 \space 𝕥𝕠 \space 𝕨𝕠𝕟𝕕𝕖𝕣, \space 𝕒𝕟𝕕 \space 𝕥𝕠 \space 𝕨𝕒𝕟𝕕𝕖𝕣. \space 𝕐𝕠𝕦𝕣 \space 𝕥𝕖𝕟𝕕𝕖𝕟𝕔𝕪 \space 𝕥𝕠 \space 𝕙𝕠𝕡𝕖. }$$
 <br>
     <br>
-  <br>
-    <img src="https://64.media.tumblr.com/35996f8f5fe2d42654b919bc7e56a8ae/9b360b95216ccc4d-c8/s500x750/ca88316544a9fcc4176c4c31a36fe445ffab2dcd.gifv" width="500" height="50" > 
-.
 </p>
